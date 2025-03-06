@@ -62,6 +62,6 @@ Creative and analytical Computer Engineering student with a passion for developi
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mit-Gandhi/Mit-Gandhi/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Mit-Gandhi/Mit-Gandhi/output/github-contribution-grid-snake-dark.svg)
 
 ###
