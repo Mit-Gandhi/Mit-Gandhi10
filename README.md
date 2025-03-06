@@ -13,7 +13,7 @@ Creative and analytical Computer Engineering student with a passion for developi
 - 🎯 Looking for collaborations in **AI-driven projects**
 - 📫 Reach me at: [gandhimit04@gmail.com](mailto:gandhimit04@gmail.com)
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/7bf371ac43d026859efcf7934a20e5ed4b70f32b63ac69b07bcf98273cc3b62a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3164335459557a3854445633346747362d6c694b517346715362414b656c347845"  />
+<img align="right" height="180" src="https://camo.githubusercontent.com/7bf371ac43d026859efcf7934a20e5ed4b70f32b63ac69b07bcf98273cc3b62a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3164335459557a3854445633346747362d6c694b517346715362414b656c347845"  />
 
 ###
 
@@ -54,7 +54,7 @@ Creative and analytical Computer Engineering student with a passion for developi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mit-gandhi-a3281628a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mit.gandhi.33483?igsh=YmMxbTI0NGlqZnV4)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mit-Gandhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mit-Gandhi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="100" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mit-Gandhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mit-Gandhi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
 </div>
