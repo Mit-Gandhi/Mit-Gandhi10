@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Mit Gandhi and I'm a AI & Machine Learning Enthusiast, from India.</h2>
+# <h1 align="center">Hi 👋! My name is Mit Gandhi | AI & Machine Learning Enthusiast</h1> #
+Creative and analytical Computer Engineering student with a passion for developing innovative solutions to complex problems. Proficient in Data Analytics, Machine Learning, AI.
 
 ###
 
@@ -8,6 +9,14 @@
 </div>
 
 ###
+
+## 👨‍💻 About Me
+- 🔬 Passionate about **AI, Machine Learning, and Data Analytics**
+- 🚀 Currently working on **Brain Tumor Classification using YOLO**
+- 🌱 Exploring **GAN's**
+- 🧠 Researching **Deep Learning & Computer Vision**
+- 🎯 Looking for collaborations in **AI-driven projects**
+- 📫 Reach me at: [gandhimit04@gmail.com](mailto:gandhimit04@gmail.com)
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/7bf371ac43d026859efcf7934a20e5ed4b70f32b63ac69b07bcf98273cc3b62a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3164335459557a3854445633346747362d6c694b517346715362414b656c347845"  />
 
