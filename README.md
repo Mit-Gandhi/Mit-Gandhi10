@@ -13,7 +13,7 @@ Creative and analytical Computer Engineering student with a passion for developi
 - 🎯 Looking for collaborations in **AI-driven projects**
 - 📫 Reach me at: [gandhimit04@gmail.com](mailto:gandhimit04@gmail.com)
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/7bf371ac43d026859efcf7934a20e5ed4b70f32b63ac69b07bcf98273cc3b62a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3164335459557a3854445633346747362d6c694b517346715362414b656c347845"  />
+<img align="right" height="200" src="https://camo.githubusercontent.com/7bf371ac43d026859efcf7934a20e5ed4b70f32b63ac69b07bcf98273cc3b62a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3164335459557a3854445633346747362d6c694b517346715362414b656c347845"  />
 
 ###
 
